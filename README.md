@@ -1,6 +1,7 @@
 crear el archivo run_task.php en la raiz de moodle.
 escribir este codigo 
 
+run_task.php
 /////////////////////////////////
 <?php
 define('CLI_SCRIPT', true);
